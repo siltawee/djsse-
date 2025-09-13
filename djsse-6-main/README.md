@@ -10,7 +10,7 @@ SSE หรือ Server-Sent Events
 HOW TO CLONE 
 
 
-git clone https://github.com/skibidi-thitiwat/djsse-65114540156/
+git clone https://github.com/siltawee/djsse-
 
 
 pip install django daphne
